@@ -1,0 +1,9 @@
+*.tgz
+coverage/
+.next/
+build/
+node_modules/
+.pnpm-store/
+yarn-error.log*
+.DS_Store
+npm-debug.log*
